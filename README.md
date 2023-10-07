@@ -1,5 +1,5 @@
 # Primeira Atividade
-## :danger: Node Modules foi excluída
+## :exclamation: Node Modules foi excluída
 ## :handshake: Alunos
 <table>
   <tr>
