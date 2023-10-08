@@ -18,7 +18,7 @@
     <td align="center">
       <a>
         <sub>
-          <b>Carlos Frederico Vasconcelos Guimarães Filho - 01285947 </b>
+          <b> Filipi farias Paulino 01554219 </b>
         </sub>
       </a>
     </td>
@@ -30,7 +30,7 @@
     <td align="center">
       <a>
         <sub>
-          <b> João Luis de Araújo Mendes - 01510913 </b>
+          <b> Gabriel Leão - 01514154 </b>
         </sub>
       </a>
     </td>
@@ -42,7 +42,7 @@
     <td align="center">
       <a>
         <sub>
-          <b>Lorena Mendes Diniz - 01528548 </b>
+          <b> Guilherme Marcello Oliveira de Carvalho Espinola- 01528565 </b>
         </sub>
       </a>
     </td>
@@ -54,7 +54,7 @@
     <td align="center">
       <a>
         <sub>
-          <b>Nayara Danielly Cabral Marques da Silva - 01565992 </b>
+          <b> Mateus Andrade Martins - 01517424 </b>
         </sub>
       </a>
     </td>
@@ -67,7 +67,7 @@
       <a>
 <!--         <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br> -->
         <sub>
-          <b> Pedro Vinicius Viera Gonalves de Lima - 01529186 </b>
+          <b> Matheus Henrique Farias de Almeida - 01515159 </b>
         </sub>
       </a>
     </td>
